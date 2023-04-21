@@ -255,3 +255,160 @@ Assignment
 </body>
 
 </html>
+
+
+
+#CSS
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-container {
+    background-color: #fc8095;
+    background-size: cover;
+    padding: 10px;
+    width: 100vh;
+}
+
+.icon-heading {
+    font-size: 12px;
+    margin: 5px;
+    margin-left: 10px;
+    text-align: left;
+    color: #0b374c;
+}
+
+.line-line {
+    border: 2px solid #0b374c;
+    width: 75%;
+}
+
+.icon-heading-1 {
+    font-size: 12px;
+    color: #0b374c;
+    margin: 5px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.circle {
+    padding: 10px;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border: 3px solid transparent;
+    border-color: #0b374c;
+}
+
+.circle-1 {
+    padding: 10px;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border: 3px solid transparent;
+    border-color: #0b374c;
+    margin: 10px;
+    background-color: #0b374c;
+}
+
+.icons {
+    font-size: 50px;
+    color: #0b374c;
+}
+
+.heading-1 {
+    color: #0b374c;
+    font-size: 15px;
+}
+
+.paragraph {
+    color: #0b374c;
+}
+
+.paragraph-1 {
+    color: #0b374c;
+    font-size: 10px;
+}
+
+.c1 {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.c2 {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.c3 {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.line {
+    border: 2px solid #0b374c;
+    margin-right: 55px;
+    width: 75%;
+
+}
+
+.line-1 {
+    width: 3px;
+    background-color: #0b374c;
+    border-left: 1px solid #000;
+    height: 25vh;
+
+}
+
+.line-2 {
+    width: 3px;
+    background-color: #0b374c;
+    border-left: 1px solid #000;
+    height: 32vh;
+    margin-left: 5px;
+
+}
+
+.dotting {
+    font-size: 12px;
+}
+
+.paragraph-2 {
+    color: #0b374c;
+    font-size: 12px;
+}
+
+.heading-2 {
+    color: #0b374c;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.year-1 {
+    display: flex;
+}
+
+.dot {
+    font-size: 15px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.table {
+    display: flex;
+    padding-bottom: 15px;
+}
+
+.skills {
+    display: flex;
+}
+
+.paragraph-3 {
+    font-size: 12px;
+}
+
+.icons-design {
+    display: flex;
+    justify-content: space-around;
+}
